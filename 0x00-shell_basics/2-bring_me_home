@@ -1,2 +1,2 @@
-#!/bin/bash chmod u+x
-echo "cd"
+#!/bin/bash chmod u+x echo
+"cd"
