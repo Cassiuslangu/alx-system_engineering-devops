@@ -1,2 +1,2 @@
-#!/bin/bash chmod u+x
-echo ls-1
+#!/bin/bash
+ls
