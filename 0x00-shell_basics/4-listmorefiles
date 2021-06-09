@@ -1,2 +1,2 @@
-#!/bin/bash echo chmod u+x
+#!/bin/bash chmod u+x echo
 "ls -la .."
