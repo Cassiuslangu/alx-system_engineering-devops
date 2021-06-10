@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod chgrp d holberton hello
+chgrp holberton/hello
