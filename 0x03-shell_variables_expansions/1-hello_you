@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u echo "hello"
+echo "hello: $USER"
