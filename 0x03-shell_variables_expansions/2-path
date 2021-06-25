@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir /action echo $0
+echo $/action 0
