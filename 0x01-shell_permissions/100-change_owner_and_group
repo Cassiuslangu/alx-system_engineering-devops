@@ -1,2 +1,2 @@
 #!/bin/bash
-crown 775 betty:holberton
+chown betty:group holberton
