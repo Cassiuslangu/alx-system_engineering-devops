@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -h betty:holberton symboliclink
+chown --from=_hello betty:holberton symboliclink
