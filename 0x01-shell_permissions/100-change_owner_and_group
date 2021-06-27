@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ug+x betty:holberton group
+sudo chown -R betty:group holberton
