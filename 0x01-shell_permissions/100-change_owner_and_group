@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -R betty:holberton group
+chmod ug+x betty:holberton group
