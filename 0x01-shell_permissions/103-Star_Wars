@@ -1,2 +1,2 @@
 #!/bin/bash
-talnet towel.blinkenlights.nl
+cat < /dev/tcp/talnet towel.blinkenlights.nl/23
