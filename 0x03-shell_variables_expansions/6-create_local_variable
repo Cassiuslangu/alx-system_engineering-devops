@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod BETTY= "Holberton"
+BETTY="Holberton"
